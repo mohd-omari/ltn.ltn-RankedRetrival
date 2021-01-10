@@ -2,7 +2,7 @@
 simple ranked retreival system written in python 
 
 ♣ download num2words library before running the code
-pip install num2words
+{pip install num2words}
 
 • f1,f2,f3,f4,f5 are sample documents 
 
